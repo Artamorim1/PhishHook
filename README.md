@@ -1,6 +1,6 @@
 # Phish Hook - Analyzing ML-based Phishing Detection  
 
-This repository contains the code, datasets, and models for the Phish Hook group's project for **CAP5150**. Our work extends the phishing website detection research by Gangesh Basker and his team (I have listed them as contributors in the git hub, to highlight the files that i did not change and do not have authorship over), aiming to enhance phishing detection using machine learning models and feature extraction methods.  
+This repository contains the code, datasets, and models for the Phish Hook group, comprised of Arthur Amorim, Aneka Williams, and Randy Marcelin, for their **CAP5150** project. Our work extends the phishing website detection research by Gangesh Basker and his team (I have listed them as contributors in the git hub, to highlight the files that i did not change and do not have authorship over), aiming to enhance phishing detection using machine learning models and feature extraction methods.  
 
 ## Background  
 
