@@ -4,7 +4,7 @@ This repository contains the code, datasets, and models for the Phish Hook group
 
 ## Background  
 
-For detailed background information, please refer to the (insert our publication pdf) in this repository. This project primarily builds upon the original work available at [Gangesh Basker's GitHub Repository](https://github.com/gangeshbaskerr/Phishing-Website-Detection).  
+For detailed background information, please refer to our report. This project primarily builds upon the original work available at [Gangesh Basker's GitHub Repository](https://github.com/gangeshbaskerr/Phishing-Website-Detection).  
 
 ### Overview of the Datasets  
 
@@ -44,7 +44,8 @@ To reproduce the results discussed in our paper and create or test datasets, fol
 1. **Dataset Creation and Feature Extraction**  
    - Use the provided `features.py` scripts to extract features for specific datasets:  
      - `features2.py` for `dataset2.csv` → Outputs `extracted2.csv`.  
-     - `features3.py` for `dataset3.csv` → Outputs `extracted3.csv`.  
+     - `features3.py` for `dataset3.csv` → Outputs `extracted3.csv`.
+     - `featuresTest.py` for `datasetTest.csv` → Outputs `extractedTest.csv`.
      - Similarly, use corresponding scripts for other datasets.  
 
 2. **Reproducing Dataset 4**  
@@ -73,7 +74,7 @@ To reproduce the results discussed in our paper and create or test datasets, fol
 
 ## Additional Notes  
 
-- All datasets and extracted datasets are stored in their respective folders for compactness. If you wish to run a specific script, move the required files to the main directory.  
+- All datasets and extracted datasets (aside from the ones required to run the jupyter notebook) are stored in their respective folders for compactness. If you wish to run a specific script, move the required files to the main directory.  
 - To avoid overwriting, compare your generated files with the provided ones in the repository.  
 
 ## Credits  
